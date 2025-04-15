@@ -54,12 +54,6 @@
 
 ---
 
-## ❗ Known Issues
-
-- The website structure may change, so the scraping logic may need adjustments if the site layout is modified.
-- The scraping speed can be slow due to the need for handling multiple web requests and waiting for pages to load.
-
----
 
 ## 🔧 Requirements
 
